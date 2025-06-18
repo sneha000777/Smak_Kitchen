@@ -1,0 +1,195 @@
+[
+  {
+    "title": "Milk Tea",
+    "ingredients": "Milk, Sugar, Water, Tea leaves",
+    "instructions": "Place water in your teapot and bring water to boil.\nTurn heat off and pour in your tea leaves, cover and let it steep for 5 minutes.\nStrain into tea cup, add milk and sugar to your liking.",
+    "image": "https://sudachirecipes.com/wp-content/uploads/2025/03/royal-milk-tea-thumb-768x768.png"
+  },
+  {
+    "title": "Vegetable Pulao",
+    "ingredients": "Basmati rice, Mixed vegetables (carrot, beans, peas), Onion, Ginger-garlic paste, Whole spices, Salt, Oil, Water",
+    "instructions": "Wash and soak rice for 20 minutes.\nSauté whole spices in oil, then add onions and ginger-garlic paste.\nAdd vegetables and cook briefly.\nAdd rice, water, and salt. Cook covered on low heat until rice is fluffy.",
+    "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2019/10/Veg-Pulao.jpg"
+  },
+  {
+    "title": "Paneer Butter Masala",
+    "ingredients": "Paneer, Tomatoes, Onions, Butter, Cream, Ginger-garlic paste, Garam masala, Chili powder, Salt",
+    "instructions": "Sauté onions, garlic, and ginger. Add tomatoes and cook to a paste.\nBlend and strain the mixture. Sauté again with butter, spices, and cream.\nAdd paneer and simmer for 5 minutes. Serve hot.",
+    "image": "https://myfoodstory.com/wp-content/uploads/2021/07/Paneer-Butter-Masala-3-1024x1536.jpg"
+  },
+  {
+    "title": "Masala Dosa",
+    "ingredients": "Dosa batter, Boiled potatoes, Onions, Mustard seeds, Curry leaves, Turmeric, Oil, Salt",
+    "instructions": "Prepare potato masala by tempering spices and sautéing onions and mashed potatoes.\nSpread dosa batter on hot tawa, add filling, cook till crispy.\nFold and serve.",
+    "image": "https://delishglobe.com/wp-content/uploads/2024/09/Masala-dosa-1-1024x749.png"
+  },
+  {
+    "title": "Palak Paneer",
+    "ingredients": "Spinach, Paneer, Onions, Tomatoes, Ginger-garlic, Green chili, Cumin, Cream, Salt",
+    "instructions": "Blanch and puree spinach. Sauté onions, garlic, and tomatoes with spices.\nAdd spinach puree and paneer cubes. Cook for 5–7 minutes. Finish with cream.",
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2019/08/Palak-Paneer.jpg"
+  },
+  {
+    "title": "Upma",
+    "ingredients": "Rava (semolina), Mustard seeds, Urad dal, Curry leaves, Green chili, Ginger, Onion, Water, Salt, Oil",
+    "instructions": "Roast rava until aromatic. Sauté mustard seeds, dal, curry leaves, and onions.\nAdd water and salt. Bring to boil and slowly add rava, stirring constantly until cooked.",
+    "image": "https://thewhiskaddict.com/wp-content/uploads/2024/07/IMG_0332-1024x1536.jpg"
+  },
+  {
+    "title": "Aloo Paratha",
+    "ingredients": "Wheat flour, Boiled potatoes, Green chili, Coriander, Carom seeds, Salt, Ghee",
+    "instructions": "Make dough from flour and water. Mix mashed potatoes with spices.\nRoll dough, stuff with filling, seal, and roll again.\nCook on tawa with ghee until golden.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Aloo_Paratha_also_known_as_Batatay_Jo_Phulko.jpg/500px-Aloo_Paratha_also_known_as_Batatay_Jo_Phulko.jpg"
+  },
+  {
+    "title": "Chole (Chickpea Curry)",
+    "ingredients": "Boiled chickpeas, Onions, Tomatoes, Garlic, Ginger, Chole masala, Cumin, Oil, Salt",
+    "instructions": "Sauté cumin, onions, garlic, and ginger. Add tomatoes and cook to a paste.\nMix in spices and chickpeas. Simmer for 15–20 minutes. Garnish with coriander.",
+    "image": "https://minimalistbaker.com/wp-content/uploads/2016/02/AMAZING-Chana-Masala-made-in-1-Pot-So-healthy-flavorful-and-delicious-vegan-glutenfree-chanamasala-recipe-minimalistbaker.jpg"
+  },
+  {
+    "title": "Lemon Rice",
+    "ingredients": "Cooked rice, Mustard seeds, Urad dal, Green chili, Curry leaves, Turmeric, Lemon juice, Salt, Oil",
+    "instructions": "Heat oil, splutter mustard seeds, add dals, chili, curry leaves, turmeric.\nAdd rice and salt. Mix well. Finish with lemon juice and serve.",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/12/lemon-rice-recipe-1-1152x1536.jpg"
+  },
+  {
+    "title": "Pav Bhaji",
+    "ingredients": "Mixed vegetables (potato, peas, carrot), Onion, Tomato, Pav bhaji masala, Butter, Pav buns, Lemon, Coriander",
+    "instructions": "Boil and mash veggies. Sauté onions and tomatoes, add spices, and mash everything together.\nAdd butter generously. Toast pav with butter. Serve with lemon and onions.",
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2018/05/Best-Pav-Bhaji-Recipe-1014x1536.jpg"
+  },
+  {
+    "title": "Tomato Soup",
+    "ingredients": "Tomatoes, Onion, Garlic, Butter, Black pepper, Salt, Water",
+    "instructions": "Boil chopped tomatoes with onion and garlic until soft.\nBlend the mixture and strain.\nSimmer with butter, salt, and pepper. Serve hot.",
+    "image": "https://cdn.loveandlemons.com/wp-content/uploads/2023/01/tomato-soup.jpg"
+  },
+  {
+    "title": "Egg Curry",
+    "ingredients": "Boiled eggs, Onion, Tomato, Ginger-garlic paste, Spices, Oil, Salt",
+    "instructions": "Sauté onions and ginger-garlic paste, add tomatoes and spices.\nAdd water and bring to a boil. Add boiled eggs and simmer for 10 minutes.",
+    "image": "https://www.spicebangla.com/wp-content/uploads/2024/08/Egg-Masala-Curry.webp"
+  },
+  {
+    "title": "Fish Fry",
+    "ingredients": "Fish fillets, Chili powder, Turmeric, Lemon juice, Salt, Oil",
+    "instructions": "Marinate fish with spices and lemon juice. Let it rest for 30 minutes.\nShallow fry both sides until golden brown.",
+    "image": "https://myfoodstory.com/wp-content/uploads/2024/11/Amritsari-Fish-Fry-Air-Fryer-1-1024x1536.jpg"
+  },
+  {
+    "title": "Garlic Naan",
+    "ingredients": "All-purpose flour, Yogurt, Yeast, Garlic, Butter, Salt",
+    "instructions": "Knead dough and allow to rise. Roll into naans and sprinkle garlic.\nCook on tawa or oven until puffed. Brush with butter and serve.",
+    "image": "https://allwaysdelicious.com/wp-content/uploads/2022/04/garlic-butter-naan-2-1022x1536.jpg"
+  },
+  {
+    "title": "Curd Rice",
+    "ingredients": "Cooked rice, Curd, Mustard seeds, Curry leaves, Green chili, Ginger, Salt",
+    "instructions": "Mix rice with curd and salt. Temper mustard seeds, curry leaves, and chili.\nAdd to rice and mix well. Serve chilled or at room temperature.",
+    "image": "https://www.yellowthyme.com/wp-content/uploads/2019/04/South-indian-curd-rice-08741.jpg"
+  },
+  {
+    "title": "Bhindi Fry",
+    "ingredients": "Okra (bhindi), Onion, Spices, Oil, Salt",
+    "instructions": "Slice bhindi and sauté in oil. Add onions and spices.\nCook until soft and slightly crispy.",
+    "image": "https://www.cookclickndevour.com/wp-content/uploads/2019/07/bhindi-masala-recipe-1.jpg"
+  },
+  {
+    "title": "Egg Biryani",
+    "ingredients": "Boiled eggs, Basmati rice, Onion, Tomato, Spices, Curd, Mint, Oil",
+    "instructions": "Sauté onions and spices, add curd and tomatoes. Add boiled eggs.\nLayer cooked rice, add mint, and cook on low heat for 10 minutes.",
+    "image": "https://www.palatesdesire.com/wp-content/uploads/2020/01/Egg_biryani@palates_desire-942x1024.jpg"
+  },
+  {
+    "title": "Kadai Paneer",
+    "ingredients": "Paneer, Capsicum, Onion, Tomato, Kadai masala, Oil, Salt",
+    "instructions": "Sauté onions and capsicum, add tomato puree and kadai masala.\nAdd paneer cubes, cook until flavors combine.",
+    "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/03/Best-Kadai-Paneer-Recipe.jpg"
+  },
+  {
+    "title": "Rava Kesari",
+    "ingredients": "Rava (semolina), Ghee, Sugar, Water, Cashews, Cardamom",
+    "instructions": "Roast rava in ghee. Boil water with sugar, add roasted rava.\nCook while stirring. Add cashews and cardamom.",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/kesari-recipe-1024x1536.jpg"
+  },
+  {
+    "title": "Vegetable Cutlet",
+    "ingredients": "Boiled vegetables, Bread crumbs, Spices, Oil, Salt",
+    "instructions": "Mash vegetables with spices. Shape into cutlets, coat with bread crumbs.\nShallow fry until golden brown.",
+    "image": "https://www.whiskaffair.com/wp-content/uploads/2020/09/Veg-Cutlet-2-1-1024x1536.jpg"
+  },
+  {
+    "title": "Chicken Curry",
+    "ingredients": "Chicken, Onion, Tomato, Ginger-garlic paste, Spices, Oil, Salt",
+    "instructions": "Sauté onions and ginger-garlic paste, add tomatoes and spices.\nAdd chicken and cook until tender with some water.",
+    "image": "https://www.whiskaffair.com/wp-content/uploads/2021/10/Andhra-Chicken-Curry-2-1-1024x1536.jpg"
+  },
+  {
+    "title": "Gobi Manchurian",
+    "ingredients": "Cauliflower, Cornflour, Soy sauce, Garlic, Chili sauce, Onion, Oil, Salt",
+    "instructions": "Fry cauliflower florets coated in cornflour. Stir-fry with sauces, garlic, and onions.",
+    "image": "https://cdn.zeptonow.com/production///tr:w-600,ar-100-100,pr-true,f-auto,q-80/web/recipes/gobi-manchurian.png"
+  },
+  {
+    "title": "Besan Chilla",
+    "ingredients": "Besan (gram flour), Onion, Green chili, Spices, Water, Oil",
+    "instructions": "Mix besan with water and spices. Add chopped onions and chilies.\nCook on tawa like pancakes until golden brown.",
+    "image": "https://shwetainthekitchen.com/wp-content/uploads/2023/09/Besan-Chilla.jpg"
+  },
+  {
+    "title": "Fruit Salad",
+    "ingredients": "Mixed fruits, Honey, Lemon juice, Mint leaves",
+    "instructions": "Chop fruits evenly. Drizzle with honey and lemon juice.\nToss well and garnish with mint.",
+    "image": "https://www.cookitrealgood.com/wp-content/uploads/2024/08/DSC04322-1024x683.png"
+  },
+  {
+    "title": "Poha",
+    "ingredients": "Flattened rice (poha), Onion, Potato, Mustard seeds, Curry leaves, Turmeric, Salt, Lemon",
+    "instructions": "Soak poha briefly and drain. Temper spices, sauté onion and potato.\nAdd poha, turmeric, and salt. Cook and finish with lemon juice.",
+    "image": "https://www.sharmispassions.com/wp-content/uploads/2022/01/PohaRecipe3.jpg"
+  },
+  {
+    "title": "Dhokla",
+    "ingredients": "Besan, Yogurt, Eno (fruit salt), Mustard seeds, Curry leaves, Green chili",
+    "instructions": "Make a batter with besan and yogurt. Add Eno before steaming.\nSteam 15-20 minutes. Temper mustard seeds and pour on top.",
+    "image": "https://i0.wp.com/binjalsvegkitchen.com/wp-content/uploads/2014/10/Khaman-Dhokla-H1.jpg?w=600&ssl=1"
+  },
+  {
+    "title": "Rasam",
+    "ingredients": "Tamarind, Tomato, Garlic, Mustard seeds, Curry leaves, Rasam powder, Water, Salt",
+    "instructions": "Boil tamarind water with spices, tomato, and rasam powder.\nAdd tempering of mustard seeds and curry leaves. Serve hot.",
+    "image": "https://www.ice.edu/sites/default/files/styles/width_1000/public/content/blog-article/header-image/rasam%20header.jpg.webp?itok=itODOlh6"
+  },
+  {
+    "title": "Paneer Tikka",
+    "ingredients": "Paneer, Curd, Spices, Bell peppers, Onion, Oil",
+    "instructions": "Marinate paneer and veggies in spiced curd.\nGrill or bake until charred. Serve with mint chutney.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWEwWfozDKGmqySOPdhysUBUJCBHRs9mpH3nEa5NBYVcl9ZiDyDg-9kLoVt38CT7d3aSNgKVal6HTqEKdIYiOZl0J3J7SAxSKiRlx1QMHxwSR2PO8i0KbeYxNFP_v5BD70k1zUqvDnJ9BH/s1600/Paneer_Tikka_5.jpg"
+  },
+  {
+    "title": "Sooji Halwa",
+    "ingredients": "Rava, Ghee, Sugar, Water, Cashews, Cardamom",
+    "instructions": "Roast rava in ghee. Boil water with sugar.\nAdd to rava and cook, stirring. Add cardamom and cashews.",
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2019/09/Sooji-Halwa-768x1164.jpg"
+  },
+  {
+    "title": "Aloo Gobi",
+    "ingredients": "Potato, Cauliflower, Onion, Tomato, Spices, Oil, Salt",
+    "instructions": "Sauté onions, add spices, tomatoes, potatoes, and cauliflower.\nCook covered until vegetables are tender.",
+    "image": "https://static01.nyt.com/images/2023/12/21/multimedia/ND-Aloo-Gobi-gkwc/ND-Aloo-Gobi-gkwc-jumbo.jpg?quality=75&auto=webp"
+  },
+  {
+    "title": "Methi Thepla",
+    "ingredients": "Whole wheat flour, Fenugreek leaves, Spices, Yogurt, Oil, Salt",
+    "instructions": "Knead dough with fenugreek and spices. Roll into thin flatbreads.\nCook on tawa with oil until golden.",
+    "image": "https://rakskitchen.net/wp-content/uploads/2009/05/methi-thepla.jpg"
+  },
+  {
+    "title": "Pongal",
+    "ingredients": "Rice, Moong dal, Ginger, Black pepper, Cumin seeds, Ghee, Cashews, Salt",
+    "instructions": "Roast moong dal, cook with rice and water until soft.\nTemper with ginger, pepper, cumin, and cashews in ghee. Mix well and serve hot.",
+    "image": "https://rakskitchen.net/wp-content/uploads/2012/10/sweet-pongal.jpg"
+  }
+]  
+  
